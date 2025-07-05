@@ -36,7 +36,7 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 
 # wallpaper
-exec --no-startup-id feh --bg-scale /home/$USER/Pictures/v2-ece12f1ecbd1cf0074225ae49e4b6c3f_r.jpg
+exec --no-startup-id feh --bg-scale /home/$USER/.config/i3/images/v2-ece12f1ecbd1cf0074225ae49e4b6c3f_r.jpg
 
 # win key
 set $mod Mod4
